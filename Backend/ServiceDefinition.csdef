@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="Backend" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition" schemaVersion="2015-04.2.6">
+  <WorkerRole name="FRSApi" vmsize="Standard_D1_v2">
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="FRSEndPoint" protocol="http" port="70" localPort="70" />
+    </Endpoints>
+  </WorkerRole>
+  <WorkerRole name="PSApi" vmsize="Standard_D1_v2">
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="PSEndPoint" protocol="http" port="90" localPort="90" />
+    </Endpoints>
+  </WorkerRole>
+</ServiceDefinition>

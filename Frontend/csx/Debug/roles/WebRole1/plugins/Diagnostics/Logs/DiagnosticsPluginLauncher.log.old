@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Emulator config file set to D:\Lab3\Frontend\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] DiagnosticsStoreRootPath set to: C:\Users\Amir\AppData\Local\dftmp\Resources\542b8fff-5191-4d0c-96a5-d54ce55cef88
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Loading config file: D:\Lab3\Frontend\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Config file to read: D:\Lab3\Frontend\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Emulator config file set to D:\Lab3\Frontend\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:23] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:24] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:24] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:24] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:24] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:40:24] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:41:34] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 06:41:34] DiagnosticPlugin exited with code 0

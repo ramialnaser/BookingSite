@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Frontend", "Frontend.ccproj", "{F0CAE995-6F23-4B8C-B694-D20906243B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{745DB51A-BF0E-4C3A-B8D6-8C3BE51DE803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CAE995-6F23-4B8C-B694-D20906243B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CAE995-6F23-4B8C-B694-D20906243B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CAE995-6F23-4B8C-B694-D20906243B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CAE995-6F23-4B8C-B694-D20906243B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745DB51A-BF0E-4C3A-B8D6-8C3BE51DE803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745DB51A-BF0E-4C3A-B8D6-8C3BE51DE803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745DB51A-BF0E-4C3A-B8D6-8C3BE51DE803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745DB51A-BF0E-4C3A-B8D6-8C3BE51DE803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EA8E8D-4BF1-4316-8979-000781ABEF83}
+	EndGlobalSection
+EndGlobal

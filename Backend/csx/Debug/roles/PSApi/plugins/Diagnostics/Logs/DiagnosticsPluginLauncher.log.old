@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Emulator config file set to D:\Lab3\Backend\csx\Debug\roles\PSApi\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] DiagnosticsStoreRootPath set to: C:\Users\Amir\AppData\Local\dftmp\Resources\25913356-be9b-4d19-bf21-0123a72b788d
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Loading config file: D:\Lab3\Backend\csx\Debug\roles\PSApi\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Config file to read: D:\Lab3\Backend\csx\Debug\roles\PSApi\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Emulator config file set to D:\Lab3\Backend\csx\Debug\roles\PSApi\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:49] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:50] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:50] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:50] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:50] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2020-05-16 09:12:50] Resetting DiagnosticPlugin
